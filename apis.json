@@ -1,0 +1,60 @@
+{
+    "name": "QUODD Financial",
+    "description": "QUODD Equity+ is a comprehensive market data workstation designed for the financial investment professional",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28091-quodd-financial.jpg",
+    "tags": [
+        "contacts",
+        "data",
+        "financial",
+        "have api",
+        "market data",
+        "pdf documentation"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/quodd-financial\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "QUODD Financial",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28091-quodd-financial.jpg",
+            "humanURL": "http:\/\/home.quodd.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/quodd-financial-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/quodd-financial-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Contact Form",
+            "url": "http:\/\/home.quodd.com\/contact-us\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/quodd-financial-information-services"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/home.quodd.com\/wp-content\/uploads\/2014\/06\/QUODD-Revised-Slides-6.23.pdf"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/quoddfinancial"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/home.quodd.com"
+        }
+    ]
+}
